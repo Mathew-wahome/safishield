@@ -1,0 +1,8 @@
+{
+  "name": "SafiShield - Pan-African AI Fraud Prevention(org)",
+  "description": "A fully functional MVP web platform that detects and prevents digital financial fraud in African markets. It features real-time streaming alerts, agent clustering, a scam map, and an educational chatbot.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

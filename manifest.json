@@ -1,0 +1,18 @@
+{
+  "short_name": "SafiShield",
+  "name": "SafiShield - Pan-African AI Fraud Prevention(org)",
+  "description": "A fully functional MVP web platform that detects and prevents digital financial fraud in African markets. It features real-time streaming alerts, agent clustering, a scam map, and an educational chatbot.",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#0F172A",
+  "background_color": "#0F172A"
+}
